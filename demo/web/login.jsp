@@ -33,7 +33,7 @@ body{
 			username：<input type="text" name ="username" placeholder="username">
 		</div>
 		<div>
-			password：<input type="text" name ="password" placeholder="password">
+			password：<input type="button" name ="password" placeholder="password">
 		</div>
 		<div>
 			 <input type="submit" name="Submit" value=" 提交" onclick="return validateLogin()">  
